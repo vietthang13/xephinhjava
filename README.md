@@ -2,7 +2,7 @@
 basic tetris game in java.
 - Tetris made in netbean using awt,swing.
 - TetrisFx made in Eclipse using javaFx.
-Guide:
+- Guide:
 Left: move left.
 Right: move right.
 Up: rotate Left.
